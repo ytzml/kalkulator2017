@@ -4,4 +4,4 @@ def dodawanie(a, b):
 	
 zm1 = int(input())
 zm2 = int(input())
-prin(dodawanie(zm1, zm2))
+print(dodawanie(zm1, zm2))
